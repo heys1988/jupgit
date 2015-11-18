@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 add merge test.
 stash test.
 add coding:utf-8
+usr/bin/env
